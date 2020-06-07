@@ -22,7 +22,7 @@ body {
   min-height: 100vh;
   height: 100vh;
   font-family: "Open Sans", sans-serif;
-  background: url(./bg.jpg) no-repeat 50% 50%;
+  background: url(./assets/bg.jpg) no-repeat 50% 50%;
   background-size: cover;
 }
 
